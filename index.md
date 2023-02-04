@@ -1,4 +1,4 @@
 ---
-title: Welcome to my page
+Jon Grimes: Welcome to my page
 ---
-### Jon Grimes
+
